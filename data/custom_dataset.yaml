@@ -1,0 +1,7 @@
+train: C:/Users/delpi/Desktop/FINAL_PROJECTS_VSCODE/Thesis_Object_Detection/yolov5/my_datasets/images/train
+val: C:/Users/delpi/Desktop/FINAL_PROJECTS_VSCODE/Thesis_Object_Detection/yolov5/my_datasets/images/val
+
+
+nc: 5
+names: ['Bottle Cap', 'Can', 'Plastic Bottle', 'Plastic Cup', 'Plastic Wrap']
+
